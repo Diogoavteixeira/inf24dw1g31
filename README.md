@@ -1,7 +1,7 @@
 # API Virus Total
 
 ## Description
-API Virus Total é um projeto desenvolvido para analisar ficheiros, endereços e domínios utilizando a API do Virus Total.
+API Virus Total é um projeto desenvolvido para analisar arquivos e URLs para identificar conteúdo malicioso,.
 
 ## Main Goals
 - Analisar ficheiros
